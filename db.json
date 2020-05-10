@@ -2,7 +2,7 @@
   "startup": [
     {
       "id": 1,
-      "img": "https://specials-images.forbesimg.com/imageserve/5ea5c68700b34d0007e095f3/960x0.jpg?fit=scale",
+      "img": "https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/5014937/580/387/m1/fpnw/wm0/1820x1214-.jpg?1536313142&s=8c13e8cb1d5b06ceb018d5615b909095",
       "name": "PiedPieper",
       "views": 568,
       "description":"Startup description in one line so that users can quickly understand what the startup is about."
@@ -37,7 +37,7 @@
     },
     {
       "id": 6,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6AQNA-M40kCwFRfsbS5RxvoeKXRI6qO8elbDLdhP8CPKIVYAy&usqp=CAU",
+      "img": "https://s3.envato.com/files/59486884/520.jpg",
       "name": "Hooli",
       "views": 209,
       "description":"Startup description in one line so that users can quickly understand what the startup is about."
