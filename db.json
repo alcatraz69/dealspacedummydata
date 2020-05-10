@@ -1,0 +1,45 @@
+{
+  "startup": [
+    {
+      "id": 1,
+      "img": "https://via.placeholder.com/600/92c952",
+      "name": "PiedPieper",
+      "views": 568,
+      "description":"Startup description in one line so that users can quickly understand what the startup is about."
+    },
+    {
+      "id": 2,
+      "img": "https://via.placeholder.com/600/771796",
+      "name": "HackStrap",
+      "views": 240,
+      "description":"Startup description in one line so that users can quickly understand what the startup is about."
+    },
+    {
+      "id": 3,
+      "img": "https://via.placeholder.com/600/24f355",
+      "name": "Musicana",
+      "views": 300,
+      "description":"Startup description in one line so that users can quickly understand what the startup is about."
+    },
+    {
+      "id": 4,
+      "img": "https://via.placeholder.com/600/d32776",
+      "name": "Dumbledoo",
+      "views": 240,
+      "description":"Startup description in one line so that users can quickly understand what the startup is about."
+    },
+    {
+      "id": 5,
+      "img": "https://via.placeholder.com/600/f66b97",
+      "name": "fever108",
+      "views": 439,
+      "description":"Startup description in one line so that users can quickly understand what the startup is about."
+    },
+    {
+      "id": 6,
+      "img": "https://via.placeholder.com/600/56a8c2",
+      "name": "Hooli",
+      "views": 209,
+      "description":"Startup description in one line so that users can quickly understand what the startup is about."
+    }
+  ]
