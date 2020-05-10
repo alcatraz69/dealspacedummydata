@@ -2,14 +2,14 @@
   "startup": [
     {
       "id": 1,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiOShAYJJZ--W2OYoIYdGmmQPRHsO0n4qLQf8IlRgrU38hoD60&usqp=CAU",
+      "img": "https://specials-images.forbesimg.com/imageserve/5ea5c68700b34d0007e095f3/960x0.jpg?fit=scale",
       "name": "PiedPieper",
       "views": 568,
       "description":"Startup description in one line so that users can quickly understand what the startup is about."
     },
     {
       "id": 2,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL8OPfcVwO7K1e1d8imRArn_N7Aij6UZ9xP8zMDM8FF4ESLWmZ&usqp=CAU",
+      "img": "https://elements-cover-images-0.imgix.net/9b1eb9fd-0edd-4a7a-b5b5-eb96db7aa003?auto=compress%2Cformat&fit=max&w=710&s=54b9b7ced3ff8002a39b8a039cbe9e62",
       "name": "HackStrap",
       "views": 240,
       "description":"Startup description in one line so that users can quickly understand what the startup is about."
@@ -23,7 +23,7 @@
     },
     {
       "id": 4,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSvfusv9CH7M0peyRyjhu8or1va5xJ_cOh6JwaeTHVmsFfMRRu&usqp=CAU",
+      "img": "https://cms-assets.tutsplus.com/uploads/users/2467/posts/32648/image/tech-preview-animation.jpeg",
       "name": "Dumbledoo",
       "views": 240,
       "description":"Startup description in one line so that users can quickly understand what the startup is about."
