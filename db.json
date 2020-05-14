@@ -2,6 +2,7 @@
   "startup": [
     {
       "id": 1,
+      "video":"https://www.youtube.com/watch?v=bNpx7gpSqbY",
       "img": "https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/5014937/580/387/m1/fpnw/wm0/1820x1214-.jpg?1536313142&s=8c13e8cb1d5b06ceb018d5615b909095",
       "name": "PiedPieper",
       "views": 568,
@@ -9,6 +10,7 @@
     },
     {
       "id": 2,
+      "video":"https://www.youtube.com/watch?v=bNpx7gpSqbY",
       "img": "https://elements-cover-images-0.imgix.net/9b1eb9fd-0edd-4a7a-b5b5-eb96db7aa003?auto=compress%2Cformat&fit=max&w=710&s=54b9b7ced3ff8002a39b8a039cbe9e62",
       "name": "HackStrap",
       "views": 240,
@@ -16,6 +18,7 @@
     },
     {
       "id": 3,
+      "video":"https://www.youtube.com/watch?v=bNpx7gpSqbY",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWIaF6L0wf1nsfLWeQ4j7YWcuMiUPKaldcfswVXreRqzVe6OpS&usqp=CAU",
       "name": "Musicana",
       "views": 300,
@@ -30,6 +33,7 @@
     },
     {
       "id": 5,
+      "video":"https://www.youtube.com/watch?v=bNpx7gpSqbY",
       "img": "https://www.voicendata.com/wp-content/uploads/2016/03/startup-business-c_2647332g.jpg",
       "name": "fever108",
       "views": 439,
@@ -37,6 +41,7 @@
     },
     {
       "id": 6,
+      "video":"https://www.youtube.com/watch?v=bNpx7gpSqbY",
       "img": "https://portugalstartups.com/wp-content/uploads/2018/03/startup-visa-how-to-apply.jpg",
       "name": "Hooli",
       "views": 209,
